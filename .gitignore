@@ -1,0 +1,11 @@
+archetypes
+assets
+content
+data
+i18n
+layotus
+static
+themes
+/paper
+.hugo_build.lock
+hugo.toml
